@@ -1,0 +1,1 @@
+# CURD_API_with_DRF_classbasedview
